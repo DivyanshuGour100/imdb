@@ -1,1 +1,1 @@
-imdbproject101.netlify.app
+https://imdbproject101.netlify.app/
